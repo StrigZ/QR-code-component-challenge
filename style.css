@@ -81,15 +81,16 @@ img {
 .card__title,
 .card__desc {
     padding: 0 15px;
-    margin-bottom: 25px;
 }
 
 .card__title {
     color: var(--DarkBlue);
+    margin-bottom: 20px;
 }
 
 .card__desc {
     color: var(--GrayishBlue);
+    margin-bottom: 25px;
 }
 
 @media (min-width:1000px) {}
